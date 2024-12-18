@@ -1,0 +1,14 @@
+{
+    "backend": {
+      "host": "127.0.0.1",
+      "port": 5000
+    },
+    "supabase": {
+      "url": "https://gbkwtqucmrtwlshnefoq.supabase.co",
+      "anon_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdia3d0cXVjbXJ0d2xzaG5lZm9xIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzQ0NjA0NzEsImV4cCI6MjA1MDAzNjQ3MX0.wu6MlhLsuOxJCrgw4j_1Vo6zEFGn2UqHvTVFqPtA4AI"
+    },
+    "app": {
+      "name": "QueryAI",
+      "version": "1.0.0"
+    }
+  }
